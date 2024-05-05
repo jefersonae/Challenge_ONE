@@ -1,4 +1,3 @@
-# Challenge_ONE
 ## Resumo
 Projeto desenvolvido na formação Oracle One, o objetivo dele é criar um site que receba uma palavra chamada de chave e criptografe ela usando algumas regras
 ## Requisitos
